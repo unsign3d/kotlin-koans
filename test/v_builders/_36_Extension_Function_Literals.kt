@@ -8,6 +8,5 @@ class _36_Extension_Function_Literals {
         val result = task36()
         assertEquals("The functions 'isOdd' and 'isEven' should be implemented correctly",
                 listOf(false, true, true), result)
-
     }
 }
